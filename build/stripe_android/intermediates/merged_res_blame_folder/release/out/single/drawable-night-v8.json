@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/stripe_ic_cvc_amex.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable-night-v8/stripe_ic_cvc_amex.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/pay_with_googlepay_button_content.xml",
+        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable-night/pay_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/googlepay_button_content.xml",
+        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable-night/googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/stripe_ic_cvc.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable-night-v8/stripe_ic_cvc.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/googlepay_button_overlay.xml",
+        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable-night/googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/stripe_3ds2_ic_arrow.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable-night-v8/stripe_3ds2_ic_arrow.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/stripe_ic_affirm_logo.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/5b56848c975b2e98f871341890259223/transformed/jetified-payments-ui-core-20.1.0/res/drawable-night-v8/stripe_ic_affirm_logo.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/stripe_googlepay_button_overlay.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable-night-v8/stripe_googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-night-v8/stripe_ic_unknown.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable-night-v8/stripe_ic_unknown.xml"
+    }
+]

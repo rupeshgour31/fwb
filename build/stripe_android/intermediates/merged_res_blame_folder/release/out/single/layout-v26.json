@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/layout-v26/mtrl_calendar_month.xml"
+    }
+]

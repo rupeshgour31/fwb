@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-zh/pay_with_googlepay_button_content.xml",
+        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable-zh/pay_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-zh/stripe_ic_unionpay_template_32.xml",
+        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable-zh/stripe_ic_unionpay_template_32.xml"
+    }
+]
