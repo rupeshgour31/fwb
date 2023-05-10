@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/menu/paymentsheet_payment_methods_list.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/menu/paymentsheet_payment_methods_list.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\add_payment_method.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\menu\\add_payment_method.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/menu/add_payment_method.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/menu/add_payment_method.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\paymentsheet_payment_methods_list.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\menu\\paymentsheet_payment_methods_list.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/menu/payment_auth_web_view_menu.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/menu/payment_auth_web_view_menu.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\payment_auth_web_view_menu.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\menu\\payment_auth_web_view_menu.xml"
     }
 ]

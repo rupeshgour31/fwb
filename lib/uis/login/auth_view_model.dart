@@ -62,9 +62,9 @@ class AuthViewModel extends ViewModel {
     });
   }
 
-  void editProfileReq(context, params, XFile? image) {
+  void editProfileReq(context, params, XFile? image) async {
     if (image != null) {
-      updateProfileImage(image);
+      await updateProfileImage(image);
     }
     callApi(() async {
       final response = await AuthRepo.editProfileCall(params);
@@ -100,8 +100,9 @@ class AuthViewModel extends ViewModel {
       ),
     );
     request.headers.addAll(header);
-
+    isLoading = true;
     http.StreamedResponse response = await request.send();
+    isLoading = false;
 
     if (response.statusCode == 200) {
       print(await response.stream.bytesToString());
@@ -160,6 +161,8 @@ class AuthViewModel extends ViewModel {
               testEnv: true,
               customFlow: true,
               style: ThemeMode.dark,
+              customerId: paymentIntentData!['customer'],
+              customerEphemeralKeySecret: paymentIntentData!['ephemeralKey'],
               merchantCountryCode: 'US',
               merchantDisplayName: 'Kashif',
             ),
@@ -181,7 +184,9 @@ class AuthViewModel extends ViewModel {
         clientSecret: paymentIntentData!['client_secret'],
         confirmPayment: true,
       ))
-          .then((newValue) {
+          .whenComplete(() {
+        print('DONE DONE DONE DONE DONE DONE');
+      }).then((newValue) {
         debugPrint('payment intent' + paymentIntentData!['id'].toString());
         debugPrint(
             'payment intent' + paymentIntentData!['client_secret'].toString());

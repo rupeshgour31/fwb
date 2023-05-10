@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/layout-night-v8/googlepay_button.xml",
-        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/layout-night/googlepay_button.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\layout-night-v8\\pay_with_googlepay_button.xml",
+        "source": "C:\\Users\\HP\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\stripe_android-2.5.0\\android\\src\\main\\res\\layout-night\\pay_with_googlepay_button.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/layout-night-v8/pay_with_googlepay_button.xml",
-        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/layout-night/pay_with_googlepay_button.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\layout-night-v8\\googlepay_button.xml",
+        "source": "C:\\Users\\HP\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\stripe_android-2.5.0\\android\\src\\main\\res\\layout-night\\googlepay_button.xml"
     }
 ]

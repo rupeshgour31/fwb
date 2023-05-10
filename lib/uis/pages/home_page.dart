@@ -77,6 +77,12 @@ class _HomePageState extends State<HomePage> {
               const SizedBox(
                 height: 20,
               ),
+              /*if (notifications.length <= 0)
+                Center(
+                    child: Padding(
+                  padding: const EdgeInsets.only(top: 250.0),
+                  child: Text('No record found'),
+                )),*/
               for (int i = 0; i < notifications.length; i++)
                 Container(
                   margin: const EdgeInsets.only(left: 20, right: 20, top: 10),

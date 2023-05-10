@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

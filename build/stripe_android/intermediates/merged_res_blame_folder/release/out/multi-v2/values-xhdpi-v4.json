@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "outputFile": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "outputFile": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\values-xhdpi-v4\\values-xhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

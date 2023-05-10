@@ -42,13 +42,15 @@ class _EditProfileState extends State<EditProfile> with CommonValidations {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
       Data? userProfile = context.read<DashBoardViewModel>().userProfile;
-      fullNameCtl.text = userProfile!.name!;
-      emailCtl.text = userProfile.email!;
-      addressCtl.text = userProfile.address!;
-      cityCtl.text = userProfile.city!;
-      stateCtl.text = userProfile.state!;
-      zipCtl.text = userProfile.zipcode!;
-      thumbImage = userProfile.thumbImage!;
+      setState(() {
+        fullNameCtl.text = userProfile!.name!;
+        emailCtl.text = userProfile.email!;
+        addressCtl.text = userProfile.address!;
+        cityCtl.text = userProfile.city!;
+        stateCtl.text = userProfile.state!;
+        zipCtl.text = userProfile.zipcode!;
+        thumbImage = userProfile.thumbImage!;
+      });
     });
   }
 
@@ -255,6 +257,9 @@ class _EditProfileState extends State<EditProfile> with CommonValidations {
                             height: 90,
                             width: 100,
                             fit: BoxFit.cover,
+                            errorBuilder: (a, s, d) {
+                              return Icon(Icons.error);
+                            },
                           ),
                   ),
                 ),

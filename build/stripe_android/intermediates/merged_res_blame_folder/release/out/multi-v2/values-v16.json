@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/values-v16/values-v16.xml",
+            "outputFile": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/7fe0aa49000781cd1d0a801270527f57/transformed/core-1.8.0-alpha07/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9d00c9b86ab8b2ef29108bb8bd502105\\transformed\\core-1.8.0-alpha07\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,10 +35,10 @@
             ]
         },
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/7fe0aa49000781cd1d0a801270527f57/transformed/core-1.8.0-alpha07/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9d00c9b86ab8b2ef29108bb8bd502105\\transformed\\core-1.8.0-alpha07\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -48,7 +48,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

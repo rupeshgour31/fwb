@@ -37,6 +37,8 @@ class DashBoardViewModel extends ViewModel {
         // showToast(response.message, AppColors.greenColor);
         UserProfileModel userData = UserProfileModel.fromJson(response.data);
         SharedPrefHelper.userRole = userData.data!.role!;
+        userProfile = null;
+        notifyListeners();
         userProfile = userData.data;
         notifyListeners();
       } else {

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "E:\\development\\fwb\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/0f9a447ce4af717daf8cc4b39b442b92/transformed/core-1.8.0/res/values-en-rCA/values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "4259",
-                        "endColumns": "100",
-                        "endOffsets": "4355"
-                    }
-                },
-                {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/575e9d5aaab069d33032a1fb649a7f07/transformed/browser-1.4.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\05304738454a7c6fee076a188df4c25d\\transformed\\browser-1.4.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d363e3b5616f580c766e3e2b3c05f27d\\transformed\\core-1.8.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4259",
+                        "endColumns": "100",
+                        "endOffsets": "4355"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/92d31732767d7c7ae123acaf783c1083/transformed/jetified-play-services-wallet-19.1.0/res/values-en-rCA/values.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\e4598469c31d9c2895a4b0b6aa263430\\transformed\\jetified-play-services-wallet-19.1.0\\res\\values-en-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/15bcd691186f383d839fd4760f56f779/transformed/jetified-ui-1.1.1/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\80c116c275e0357d1037e1e523efd180\\transformed\\jetified-ui-1.1.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

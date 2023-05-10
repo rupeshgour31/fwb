@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/layout-land/mtrl_picker_header_dialog.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/layout-land/mtrl_picker_header_dialog.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\layout-land\\mtrl_picker_header_dialog.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\layout-land\\mtrl_picker_header_dialog.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/layout-land/material_clock_period_toggle_land.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/layout-land/material_clock_period_toggle_land.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\layout-land\\material_clock_period_toggle_land.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\layout-land\\material_clock_period_toggle_land.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/layout-land/material_timepicker.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/layout-land/material_timepicker.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\layout-land\\material_timepicker.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\layout-land\\material_timepicker.xml"
     }
 ]

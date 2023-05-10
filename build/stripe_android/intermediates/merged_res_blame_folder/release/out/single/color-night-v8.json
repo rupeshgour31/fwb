@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/color-night-v8/material_timepicker_clockface.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/color-night-v8/material_timepicker_clockface.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\color-night-v8\\material_timepicker_clockface.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\color-night-v8\\material_timepicker_clockface.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/color-night-v8/material_timepicker_button_stroke.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/color-night-v8/material_timepicker_button_stroke.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\color-night-v8\\material_timepicker_button_stroke.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\color-night-v8\\material_timepicker_button_stroke.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/color-night-v8/material_timepicker_modebutton_tint.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/color-night-v8/material_timepicker_modebutton_tint.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\color-night-v8\\material_timepicker_modebutton_tint.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\color-night-v8\\material_timepicker_modebutton_tint.xml"
     }
 ]

@@ -1,46 +1,46 @@
 [
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/googlepay_button_background.xml",
-        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable-v21/googlepay_button_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\material_cursor_drawable.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable-v21\\material_cursor_drawable.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable-v21/abc_list_divider_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\googlepay_button_background.xml",
+        "source": "C:\\Users\\HP\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\stripe_android-2.5.0\\android\\src\\main\\res\\drawable-v21\\googlepay_button_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/material_cursor_drawable.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable-v21/material_cursor_drawable.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\mtrl_navigation_bar_item_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable-v21\\mtrl_navigation_bar_item_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/googlepay_button_no_shadow_background.xml",
-        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable-v21/googlepay_button_no_shadow_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9d00c9b86ab8b2ef29108bb8bd502105\\transformed\\core-1.8.0-alpha07\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable-v21/abc_dialog_material_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/7fe0aa49000781cd1d0a801270527f57/transformed/core-1.8.0-alpha07/res/drawable-v21/notification_action_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\googlepay_button_no_shadow_background.xml",
+        "source": "C:\\Users\\HP\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\stripe_android-2.5.0\\android\\src\\main\\res\\drawable-v21\\googlepay_button_no_shadow_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/mtrl_navigation_bar_item_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable-v21/mtrl_navigation_bar_item_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\m3_tabs_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable-v21\\m3_tabs_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/m3_tabs_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable-v21/m3_tabs_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_list_divider_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_edit_text_material.xml"
     }
 ]

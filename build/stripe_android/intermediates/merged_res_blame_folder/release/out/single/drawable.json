@@ -1,850 +1,850 @@
 [
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_jcb.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_jcb.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_islam.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_islam.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_back_disabled.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_back_disabled.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_uob.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_uob.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_m3_chip_check.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_m3_chip_check.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_ideal.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_ideal.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_cvc_amex.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_cvc_amex.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_cvc.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_cvc.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/design_ic_visibility_off.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/design_ic_visibility_off.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_hong_leong.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_hong_leong.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_indicator.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_indicator.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_trash.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_trash.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_ic_arrow_drop_up.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_ic_arrow_drop_up.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_ctil_chevron_down.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_ctil_chevron_down.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_p24.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_p24.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_bancontact.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_amex_template_32.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_amex_template_32.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_ic_arrow_drop_down.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_ic_arrow_drop_down.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_link_close.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3fe7b6302252a7804276230c3fb76ee8\\transformed\\jetified-link-20.1.0\\res\\drawable\\ic_link_close.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_textfield_search_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_dialog_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_dialog_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_paymentsheet_toolbar_back.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_paymentsheet_toolbar_back.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_radio_on_mtrl.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_radio_on_mtrl.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_add_black_32dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_add_black_32dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_add_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_add_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_paypal.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_paypal.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_amex_template_32.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_amex_template_32.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_discover.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_discover.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_add_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_add_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_indicator.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_indicator.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_ocbc.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_ocbc.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_back_enabled.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_back_enabled.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_checkmark_tinted.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_checkmark_tinted.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_cvc.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_cvc.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_error.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_error.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_popupmenu_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_popupmenu_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_dropdown_arrow.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_dropdown_arrow.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_cvc.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_paymentsheet_cvc.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_unionpay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_unionpay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/material_ic_edit_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/material_ic_edit_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_mastercard.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_mastercard.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_afterpay_clearpay_logo.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/5b56848c975b2e98f871341890259223/transformed/jetified-payments-ui-core-20.1.0/res/drawable/stripe_ic_afterpay_clearpay_logo.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_unionpay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_unionpay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_link_logo.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/df244a0ab1c4df749e529673774c0376/transformed/jetified-link-20.1.0/res/drawable/ic_link_logo.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_cimb.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_cimb.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_amex.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_amex.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_discover.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_discover.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_generic.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_generic.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_radio_on_mtrl.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/design_fab_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/design_fab_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_mtrl_checked_circle.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_mtrl_checked_circle.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_mtrl_chip_close_circle.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_mtrl_chip_close_circle.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_lock.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/5b56848c975b2e98f871341890259223/transformed/jetified-payments-ui-core-20.1.0/res/drawable/stripe_ic_lock.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_googlepay_button_content_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_googlepay_button_content_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_visa_template_32.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_visa_template_32.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_amex.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_amex.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/notification_bg.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/7fe0aa49000781cd1d0a801270527f57/transformed/core-1.8.0-alpha07/res/drawable/notification_bg.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_googlepay_button_content_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_googlepay_button_content_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_affin.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_affin.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_muamalat.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_muamalat.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_cimb.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_cimb.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_menu_share_mtrl_alpha.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\test_level_drawable.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\test_level_drawable.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_muamalat.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_muamalat.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_arrow.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_arrow.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_menu_cut_mtrl_alpha.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\m3_tabs_line_indicator.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\m3_tabs_line_indicator.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_ctil_chevron_up.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_ctil_chevron_up.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_amex.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_amex.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_link_add.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3fe7b6302252a7804276230c3fb76ee8\\transformed\\jetified-link-20.1.0\\res\\drawable\\ic_link_add.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_back_enabled.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_back_enabled.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/pay_with_googlepay_button_content.xml",
-        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable/pay_with_googlepay_button_content.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_mastercard.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_mastercard.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_paymentsheet_toolbar_close.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_paymentsheet_toolbar_close.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_checkbox_checked_mtrl.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9d00c9b86ab8b2ef29108bb8bd502105\\transformed\\core-1.8.0-alpha07\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_googlepay_button_no_shadow_background_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_googlepay_button_no_shadow_background_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_vector_test.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/a6e5b5ba2326d90c51d4f80472b8fcb4/transformed/jetified-appcompat-resources-1.4.1/res/drawable/abc_vector_test.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/googlepay_button_content.xml",
-        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable/googlepay_button_content.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_radio_off_to_on_mtrl_animation.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_ic_arrow_drop_up.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_ic_arrow_drop_up.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\material_ic_clear_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\material_ic_clear_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_add_black_32dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_add_black_32dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_close_enabled.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_close_enabled.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_bank.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_bank.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_klarna.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_klarna.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_standard_chartered.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_standard_chartered.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_error.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_error.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_m3_chip_checked_circle.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_m3_chip_checked_circle.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_unknown.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_unknown.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_keyboard_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_keyboard_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_tabs_default_indicator.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_trash.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_trash.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_mastercard.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_mastercard.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_hsbc.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_hsbc.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_public.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_public.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_visa.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_visa.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_kfh.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_kfh.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_m3_chip_check.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_m3_chip_check.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_star_half_black_48dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_star_half_black_48dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\material_ic_menu_arrow_up_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_dropdown_arrow.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_dropdown_arrow.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_unknown.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_unknown.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_sepa_debit.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_sepa_debit.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\googlepay_button_overlay.xml",
+        "source": "C:\\Users\\HP\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\stripe_android-2.5.0\\android\\src\\main\\res\\drawable\\googlepay_button_overlay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_delete_symbol.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_delete_symbol.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_jcb_template_32.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_jcb_template_32.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_mtrl.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_checkbox_unchecked_mtrl.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_discover.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_discover.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_afterpay_clearpay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_afterpay_clearpay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_unionpay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_unionpay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9d00c9b86ab8b2ef29108bb8bd502105\\transformed\\core-1.8.0-alpha07\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_googlepay_button_overlay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_googlepay_button_overlay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_googlepay_button_overlay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_googlepay_button_overlay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\googlepay_button_content.xml",
+        "source": "C:\\Users\\HP\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\stripe_android-2.5.0\\android\\src\\main\\res\\drawable\\googlepay_button_content.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_radio_off_mtrl.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_radio_off_mtrl.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/test_custom_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/test_custom_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_google_pay_mark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_google_pay_mark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_unknown.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_unknown.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_googlepay_button_no_shadow_background_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_googlepay_button_no_shadow_background_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/material_ic_calendar_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/material_ic_calendar_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_error_amex.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_error_amex.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_unknown.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_unknown.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_bsn.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_bsn.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_googlepay_button_content_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_googlepay_button_content_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_rhb.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_rhb.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/material_ic_clear_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/material_ic_clear_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_card_form_view_text_input_layout_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_card_form_view_text_input_layout_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_discover.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_discover.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_paymentsheet_testmode_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_paymentsheet_testmode_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/navigation_empty_icon.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_cartesbancaires.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_cartesbancaires.png"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_giropay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_giropay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_radio_on_to_off_mtrl_animation.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_visa_template_32.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_visa_template_32.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\material_ic_calendar_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\material_ic_calendar_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_btn_radio_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_maybank.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_maybank.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\test_custom_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\test_custom_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_jcb_template_32.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_jcb_template_32.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_bancontact.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_bancontact.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_paymentsheet_testmode_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_paymentsheet_testmode_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_ambank.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_ambank.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_affirm_logo.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/5b56848c975b2e98f871341890259223/transformed/jetified-payments-ui-core-20.1.0/res/drawable/stripe_ic_affirm_logo.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_card.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_card.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9d00c9b86ab8b2ef29108bb8bd502105\\transformed\\core-1.8.0-alpha07\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_ic_error.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_ic_error.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_ctil_chevron.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_ctil_chevron.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_error_amex.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_error_amex.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_maybank.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_maybank.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_error.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_error.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_lock.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9f841cd9086d438304ce51772a72d882\\transformed\\jetified-payments-ui-core-20.1.0\\res\\drawable\\stripe_ic_lock.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_mastercard.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_mastercard.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ratingbar_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\avd_show_password.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\avd_show_password.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/test_level_drawable.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/test_level_drawable.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_cvc_amex.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_cvc_amex.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/design_ic_visibility.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/design_ic_visibility.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/material_ic_menu_arrow_up_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_link_chevron.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3fe7b6302252a7804276230c3fb76ee8\\transformed\\jetified-link-20.1.0\\res\\drawable\\ic_link_chevron.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_rhb.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_rhb.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_googlepay_button_content_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_googlepay_button_content_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_afterpay_clearpay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_afterpay_clearpay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_affin.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_affin.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_popupmenu_background_overlay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_popupmenu_background_overlay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_ctil_chevron_down.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_ctil_chevron_down.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\pay_with_googlepay_button_content.xml",
+        "source": "C:\\Users\\HP\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\stripe_android-2.5.0\\android\\src\\main\\res\\drawable\\pay_with_googlepay_button_content.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_ic_cancel.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_ic_cancel.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\material_ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\material_ic_keyboard_arrow_left_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_jcb.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_jcb.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_dinersclub.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_dinersclub.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_unionpay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_unionpay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_btn_radio_material_anim.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_btn_radio_material_anim.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_amex.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_amex.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_ideal.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_ideal.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_afterpay_clearpay_logo.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9f841cd9086d438304ce51772a72d882\\transformed\\jetified-payments-ui-core-20.1.0\\res\\drawable\\stripe_ic_afterpay_clearpay_logo.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/design_snackbar_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_googlepay_button_no_shadow_background_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_googlepay_button_no_shadow_background_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_dialog_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_dialog_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_sepa_debit.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_sepa_debit.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_card_form_view_text_input_layout_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_card_form_view_text_input_layout_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_discover.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_discover.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_paypal.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_paypal.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_clear_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_m3_chip_close.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_m3_chip_close.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_clock_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_clock_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_add_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_add_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_checkbox_checked_mtrl.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_checkbox_checked_mtrl.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_generic.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_generic.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_add_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_add_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_standard_chartered.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_standard_chartered.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\material_ic_menu_arrow_down_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_checkmark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_checkmark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_paymentsheet_toolbar_back.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_paymentsheet_toolbar_back.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_amex.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_amex.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_alliance.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_alliance.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_mtrl_checked_circle.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_mtrl_checked_circle.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_uob.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_uob.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_discover_template_32.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_discover_template_32.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_checkbox_unchecked_mtrl.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\material_ic_edit_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\material_ic_edit_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_mastercard.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_mastercard.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_star_black_48dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_star_black_48dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_dinersclub.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_dinersclub.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_menu_share_mtrl_alpha.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_arrow.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_arrow.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_unionpay_template_32.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_unionpay_template_32.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_primary_button_checkmark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_primary_button_checkmark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_diners.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_diners.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_mastercard.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_mastercard.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_link_logo.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3fe7b6302252a7804276230c3fb76ee8\\transformed\\jetified-link-20.1.0\\res\\drawable\\ic_link_logo.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_raykat.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_raykat.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_discover_template_32.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_discover_template_32.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_m3_chip_checked_circle.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_m3_chip_checked_circle.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_jcb.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_jcb.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_alliance.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_alliance.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/m3_tabs_line_indicator.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/m3_tabs_line_indicator.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_diners_template_32.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_diners_template_32.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_jcb.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_jcb.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_menu_paste_mtrl_am_alpha.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_google_pay_mark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_google_pay_mark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/avd_hide_password.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/avd_hide_password.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_bsn.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_bsn.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_unionpay_template_32.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_unionpay_template_32.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\m3_popupmenu_background_overlay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\m3_popupmenu_background_overlay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_ic_cancel.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_ic_cancel.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/7fe0aa49000781cd1d0a801270527f57/transformed/core-1.8.0-alpha07/res/drawable/notification_tile_bg.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_delete_symbol.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_delete_symbol.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_text_cursor_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_popupmenu_background_overlay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_popupmenu_background_overlay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_link_chevron.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/df244a0ab1c4df749e529673774c0376/transformed/jetified-link-20.1.0/res/drawable/ic_link_chevron.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_checkmark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_checkmark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/m3_tabs_rounded_line_indicator.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/m3_tabs_rounded_line_indicator.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_primary_button_checkmark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_primary_button_checkmark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/design_password_eye.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/design_password_eye.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_popupmenu_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_popupmenu_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/tooltip_frame_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_eps.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_eps.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_keyboard_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_keyboard_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_klarna.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_klarna.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_radio_off_mtrl.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/btn_radio_off_to_on_mtrl_animation.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\m3_tabs_rounded_line_indicator.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\m3_tabs_rounded_line_indicator.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_amex.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_amex.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_visa.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_visa.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_star_black_48dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_star_black_48dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_googlepay_button_no_shadow_background_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_googlepay_button_no_shadow_background_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_link_close.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/df244a0ab1c4df749e529673774c0376/transformed/jetified-link-20.1.0/res/drawable/ic_link_close.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_ic_error.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_ic_error.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\avd_hide_password.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\avd_hide_password.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_menu_selectall_mtrl_alpha.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/googlepay_button_overlay.xml",
-        "source": "/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-2.5.0/android/src/main/res/drawable/googlepay_button_overlay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_cvc.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_cvc.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_bank.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_bank.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_star_half_black_48dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_star_half_black_48dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_ctil_chevron.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_ctil_chevron.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_btn_radio_material_anim.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_btn_radio_material_anim.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_cartesbancaires.png",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_cartesbancaires.png"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_kfh.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_kfh.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_discover.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_discover.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_card_visa.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_card_visa.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/53b194e6e9136cd5efa4041416eef04b/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/avd_show_password.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/avd_show_password.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_ctil_chevron_up.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_ctil_chevron_up.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_btn_check_material_anim.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_btn_check_material_anim.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_affirm.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_affirm.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_back_disabled.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_back_disabled.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/m3_popupmenu_background_overlay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/m3_popupmenu_background_overlay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_error.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_error.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_m3_chip_close.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_m3_chip_close.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_close_disabled.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_close_disabled.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_3ds2_ic_unionpay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable\\stripe_3ds2_ic_unionpay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/notification_bg_low.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/7fe0aa49000781cd1d0a801270527f57/transformed/core-1.8.0-alpha07/res/drawable/notification_bg_low.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_close_disabled.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_close_disabled.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_diners.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_diners.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_affirm.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_affirm.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_mastercard_template_32.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_mastercard_template_32.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_giropay.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_giropay.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_visa.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f280218a3bf982616f5fdb7dcf89c81/transformed/jetified-payments-model-20.1.0/res/drawable/stripe_ic_visa.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_simple_button_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_simple_button_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_link_add.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/df244a0ab1c4df749e529673774c0376/transformed/jetified-link-20.1.0/res/drawable/ic_link_add.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\ic_clock_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\ic_clock_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_hsbc.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_hsbc.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_unionpay.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_unionpay.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\material_ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\material_ic_keyboard_arrow_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_unknown.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_unknown.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_3ds2_ic_visa.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/4f68ee24b95509399ecd9d8844baeca4/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable/stripe_3ds2_ic_visa.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_circle.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_mtrl_chip_checked_circle.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_affirm_logo.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9f841cd9086d438304ce51772a72d882\\transformed\\jetified-payments-ui-core-20.1.0\\res\\drawable\\stripe_ic_affirm_logo.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_btn_check_material_anim.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_btn_check_material_anim.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_unknown.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d3b5351980ab69f52a49b6c9ae8cf2af\\transformed\\jetified-payments-model-20.1.0\\res\\drawable\\stripe_ic_unknown.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_hong_leong.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_hong_leong.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_islam.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_islam.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_eps.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_eps.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_close_enabled.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_close_enabled.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/mtrl_tabs_default_indicator.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/mtrl_tabs_default_indicator.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_mastercard_template_32.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_mastercard_template_32.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_card_progress_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_card_progress_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_ic_menu_copy_mtrl_am_alpha.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/material_ic_menu_arrow_down_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_card_progress_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_card_progress_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/tooltip_frame_light.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_public.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_public.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_checkmark_tinted.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_checkmark_tinted.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_black.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/drawable/ic_mtrl_chip_checked_black.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\27fec05287b2478c9051a9419558d7a8\\transformed\\jetified-appcompat-resources-1.4.1\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_card_visa.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_card_visa.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_bank_ambank.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_bank_ambank.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_diners_template_32.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_ic_diners_template_32.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\mtrl_ic_arrow_drop_down.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\drawable\\mtrl_ic_arrow_drop_down.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_raykat.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_raykat.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_bank_ocbc.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a736273f0f792b613b3a95bf585189a7\\transformed\\jetified-payments-core-20.1.0\\res\\drawable\\stripe_ic_bank_ocbc.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_ic_paymentsheet_pm_card.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_ic_paymentsheet_pm_card.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_simple_button_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/78abf6da08392026d5114900dc5cd819/transformed/jetified-payments-core-20.1.0/res/drawable/stripe_simple_button_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\stripe_paymentsheet_toolbar_close.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\drawable\\stripe_paymentsheet_toolbar_close.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_p24.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/drawable/stripe_ic_paymentsheet_pm_p24.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3ff720be07735976176520d1c05fb799\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/Users/rupeshgour/development/FWB/build/stripe_android/intermediates/res/merged/release/drawable/notification_icon_background.xml",
-        "source": "/Users/rupeshgour/.gradle/caches/transforms-3/7fe0aa49000781cd1d0a801270527f57/transformed/core-1.8.0-alpha07/res/drawable/notification_icon_background.xml"
+        "merged": "E:\\development\\fwb\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9d00c9b86ab8b2ef29108bb8bd502105\\transformed\\core-1.8.0-alpha07\\res\\drawable\\notification_tile_bg.xml"
     }
 ]

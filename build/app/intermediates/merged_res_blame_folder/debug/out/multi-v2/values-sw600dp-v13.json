@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rupeshgour/development/FWB/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "E:\\development\\fwb\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/1a8e412c8974e45107cb3f5ce68f87e7/transformed/material-1.5.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\14b221489d9eb05e0e9620522e8c9e12\\transformed\\appcompat-1.4.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "93,162,231,301,375,451,510,581",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "157,226,296,370,446,505,576,644"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0480e81762638a9be8143ebfaccdde78\\transformed\\material-1.5.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,30 +40,13 @@
                     }
                 },
                 {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/31a0add508f433f7d3f6227a8e3b7f09/transformed/jetified-paymentsheet-20.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0bf2f0896443498b7c207651932c2789\\transformed\\jetified-paymentsheet-20.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "37",
                         "endOffsets": "88"
-                    }
-                },
-                {
-                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/d431a9832482fd8a2144113b1d2a2cf0/transformed/appcompat-1.4.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "93,162,231,301,375,451,510,581",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "157,226,296,370,446,505,576,644"
                     }
                 }
             ]
