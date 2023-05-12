@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="21"
-6-->C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\stripe_android-2.5.0\android\src\main\AndroidManifest.xml
+6-->/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-9.2.0/android/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="21" />
-7-->C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\stripe_android-2.5.0\android\src\main\AndroidManifest.xml
+7-->/Users/rupeshgour/.pub-cache/hosted/pub.dev/stripe_android-9.2.0/android/src/main/AndroidManifest.xml
 8
 9</manifest>

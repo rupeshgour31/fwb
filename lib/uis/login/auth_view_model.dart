@@ -156,14 +156,19 @@ class AuthViewModel extends ViewModel {
               setupIntentClientSecret:
                   'sk_test_51MTxjISBqFEsYuDzv5GhYmFpRDDMoY7lFVcDoUUykyPKJyQ3uN9csS9AyIxLACNjkotqpxYcg2SjCm1VC6J8Yqyg00MlFE7P7t',
               paymentIntentClientSecret: paymentIntentData!['client_secret'],
-              applePay: true,
-              googlePay: true,
-              testEnv: true,
+              // applePay: const PaymentSheetApplePay(
+              //   merchantCountryCode: '+91',
+              // ),
+              googlePay: const PaymentSheetGooglePay(
+                merchantCountryCode: '+91',
+                testEnv: true,
+              ),
+              // testEnv: true,
               customFlow: true,
               style: ThemeMode.dark,
               customerId: paymentIntentData!['customer'],
               customerEphemeralKeySecret: paymentIntentData!['ephemeralKey'],
-              merchantCountryCode: 'US',
+              // merchantCountryCode: 'US',
               merchantDisplayName: 'Kashif',
             ),
           )
@@ -180,10 +185,11 @@ class AuthViewModel extends ViewModel {
     try {
       await Stripe.instance
           .presentPaymentSheet(
-              parameters: PresentPaymentSheetParameters(
-        clientSecret: paymentIntentData!['client_secret'],
-        confirmPayment: true,
-      ))
+        options: const PaymentSheetPresentOptions(
+            // clientSecret: paymentIntentData!['client_secret'],
+            // confirmPayment: true,
+            ),
+      )
           .whenComplete(() {
         print('DONE DONE DONE DONE DONE DONE');
       }).then((newValue) {

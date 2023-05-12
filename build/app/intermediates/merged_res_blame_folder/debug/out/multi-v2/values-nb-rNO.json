@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\development\\fwb\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb-rNO\\values-nb-rNO.xml",
+            "outputFile": "/Users/rupeshgour/development/fwb app/fwb/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nb-rNO/values-nb-rNO.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\402a3ed6ae9f27618a86d4111d7c2d82\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\values-nb-rNO\\values-nb-rNO.xml",
+                    "source": "/Users/rupeshgour/.gradle/caches/transforms-3/212cb26b3a50a794f5391308cdad5a62/transformed/jetified-stripe-3ds2-android-6.1.7/res/values-nb-rNO/values-nb-rNO.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

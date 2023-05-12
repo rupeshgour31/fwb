@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d yeni bildirim</item>
     <item quantity="other">%d yeni bildirim</item>
@@ -38,7 +38,9 @@
     <string name="acc_label_expiry_date_node">%s, Son kullanma tarihi</string>
     <string name="acc_label_zip">Posta Kodu</string>
     <string name="acc_label_zip_short">Posta Kodu</string>
+    <string name="add_bank_account">Banka hesabı ekle</string>
     <string name="add_new_payment_method">Yeni ödeme yöntemi ekle</string>
+    <string name="add_payment_method">Ödeme yöntemi ekle</string>
     <string name="added">%s eklendi</string>
     <string name="address_city_required">Lütfen şehrinizi girin</string>
     <string name="address_country_invalid">Ülkeniz geçersiz</string>
@@ -57,10 +59,12 @@
     <string name="address_label_city">Şehir</string>
     <string name="address_label_city_optional">Şehir (isteğe bağlı)</string>
     <string name="address_label_country">Ülke</string>
+    <string name="address_label_country_or_region">Ülke veya bölge</string>
     <string name="address_label_county">Ülke</string>
     <string name="address_label_county_optional">Ülke (isteğe bağlı)</string>
     <string name="address_label_department">İdari Bölüm</string>
     <string name="address_label_district">İlçe</string>
+    <string name="address_label_full_name">Ad ve soyadınız</string>
     <string name="address_label_hk_area">Bölge</string>
     <string name="address_label_ie_eircode">Eircode</string>
     <string name="address_label_ie_townland">Kasaba</string>
@@ -97,9 +101,16 @@
     <string name="address_province_required">Lütfen ilçenizi girin</string>
     <string name="address_region_generic_required">Lütfen İl/İlçe/Bölgenizi girin</string>
     <string name="address_required">Lütfen adresinizi girin</string>
+    <string name="address_search_content_description">Ara</string>
     <string name="address_state_required">Lütfen eyaletinizi girin</string>
     <string name="address_zip_invalid">Posta kodunuz geçersiz.</string>
     <string name="address_zip_postal_invalid">Posta kodunuz geçersiz</string>
+    <string name="affirm_buy_now_pay_later">&lt;img src=\"affirm\"> ile zaman içinde ödeyin.</string>
+    <string name="afterpay_clearpay_message"><![CDATA[<img/> ile <installment_price/> tutarında faizsiz <num_installments/> taksitle ödeyin]]></string>
+    <string name="au_becs_account_name">Hesaptaki ad</string>
+    <string name="au_becs_bsb_number">BSB numarası</string>
+    <string name="au_becs_mandate">Banka hesap bilgilerinizi sağlayarak ve bu ödemeyi onaylayarak, bu Otomatik Ödeme Talebini ve &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">Otomatik Ödeme Talebi hizmet sözleşmesini&lt;/a> kabul etmiş olursunuz ve Otomatik Ödeme 507156 Kullanıcı Kimlikli Stripe Payments Australia Pty Ltd ACN 160 180 343 (\"Stripe\") şirketine %s (\"Satıcı\") adına, Satıcı tarafından size iletilen herhangi bir tutarı Toplu Elektronik Takas Sistemi (BECS) aracılığıyla hesabınızı borçlandırması için yetki verirsiniz. Yukarıda listelenen hesabın sahibi veya yetkili imza sahibi olduğunuzu onaylarsınız.</string>
+    <string name="back">Geri</string>
     <string name="bank_account_ending_in">%s ile biten banka hesabını kaldır</string>
     <string name="becs_mandate_acceptance">\n    Banka hesap bilgilerinizi sağlayarak ve bu ödemeyi onaylayarak, bu Otomatik\n    Ödeme Talebini ve Otomatik Ödeme Talebi hizmet sözleşmesini kabul etmiş\n    olursunuz ve Otomatik Ödeme 507156 Kullanıcı Kimlikli Stripe Payments\n    Australia Pty Ltd ACN 160 180 343 (\"Stripe\")\n    şirketine %1$s (\"Satıcı\") adına, Satıcı tarafından size iletilen herhangi bir tutarı\n    Toplu Elektronik Takas Sistemi (BECS) aracılığıyla hesabınızı borçlandırması için\n    yetki verirsiniz. Yukarıda listelenen hesabın sahibi veya yetkili imza sahibi olduğunuzu onaylarsınız.\n    </string>
     <string name="becs_widget_account_number">Hesap numarası</string>
@@ -114,9 +125,15 @@
     <string name="becs_widget_name">Ad</string>
     <string name="becs_widget_name_required">Adınız gereklidir.</string>
     <string name="billing_details">Fatura adresi</string>
+    <string name="billing_same_as_shipping">Faturalama adresi, gönderim adresiyle aynı</string>
     <string name="blank_and_required">Bu alan boş bırakılamaz.</string>
+    <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
+    <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
+    <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunuldu</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
     <string name="cancel">İptal</string>
+    <string name="card_declined">Kartınız reddedildi</string>
     <string name="card_ending_in">%2$s İle Biten %1$s</string>
     <string name="change">Değiştir</string>
     <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
@@ -155,6 +172,8 @@
     <string name="email_is_invalid">E-postanız geçersiz.</string>
     <string name="eps_bank">EPS Bank</string>
     <string name="error_icon_content_description">Hata</string>
+    <string name="expiration_date_hint">AA / YY</string>
+    <string name="expired_card">Kartınızın kullanım süresi dolmuş</string>
     <string name="expiry_date_hint">AA/YY</string>
     <string name="expiry_label_short">Son kullanma</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
@@ -163,25 +182,33 @@
     <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bağlantıyı paylaş"</string>
     <string name="form_label_optional">%s (isteğe bağlı)</string>
     <string name="fpx_bank_offline">%s - Çevrimdışı</string>
+    <string name="generic_decline">Ödeme yönteminiz reddedildi.</string>
     <string name="iban_incomplete">Girdiğiniz IBAN eksik.</string>
-    <string name="iban_invalid">Girdiğiniz IBAN geçersiz.</string>
     <string name="iban_invalid_country">Girdiğiniz IBAN geçersiz. \"%s\" desteklenen bir ülke kodu değil.</string>
     <string name="iban_invalid_start">IBAN numaranız iki harfli bir ülke koduyla başlamalıdır.</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="ideal_bank">iDEAL Bank</string>
     <string msgid="6827826412747255547" name="in_progress">"Devam ediyor"</string>
     <string name="incomplete_expiry_date">Kartınızın son kullanma tarihi eksik.</string>
-    <string msgid="2486394087603402002" name="indeterminate">"Ne işaretli ne de işaretli değil"</string>
+    <string name="incomplete_phone_number">Eksik telefon numarası</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Kısmi olarak kontrol edildi"</string>
+    <string name="inline_sign_up_header">Tek tıklamayla güvenli ödeme için bilgilerimi kaydet</string>
+    <string name="invalid_bank_account_iban">Girdiğiniz IBAN geçersiz.</string>
     <string name="invalid_card_number">Kart numaranız geçersiz.</string>
     <string name="invalid_cvc">Kartınızın güvenlik kodu geçersiz.</string>
+    <string name="invalid_email_address">Geçersiz e-posta adresi: %s</string>
     <string name="invalid_expiry_month">Kartınızın son kullanma ayı geçersiz.</string>
     <string name="invalid_expiry_year">Kartınızın son kullanma yılı geçersiz.</string>
+    <string name="invalid_owner_name">Adınız geçersiz.</string>
     <string name="invalid_shipping_information">Geçersiz Gönderi Adresi</string>
+    <string name="invalid_upi_id">Geçersiz UPI Numarası</string>
     <string name="invalid_zip">Posta kodunuz eksik.</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="klarna_buy_now_pay_later">Şimdi satın alın veya daha sonra Klarna ile ödeyin.</string>
     <string name="klarna_pay_later">Daha sonra Klarna ile ödeyin.</string>
+    <string name="log_out">Link\'ten çıkış yap</string>
     <string name="material_clock_toggle_content_description">ÖÖ veya ÖS\'yi seçin</string>
+    <string name="material_hour_24h_suffix">%1$s saat</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_hour_suffix">Saat %1$s</string>
     <string name="material_minute_selection">Dakikayı seçin</string>
@@ -195,11 +222,12 @@
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">%1$d adetten fazla yeni bildirim</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d adetten fazla yeni bildirim</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_cancel">İptal</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -226,6 +254,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
+    <string name="mtrl_timepicker_cancel">İptal</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
     <string msgid="542007171693138492" name="navigation_menu">"Gezinme menüsü"</string>
     <string msgid="6610465462668679431" name="not_selected">"Seçili değil"</string>
     <string msgid="875452955155264703" name="off">"Kapalı"</string>
@@ -234,14 +264,25 @@
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="payment_method_add_new_card">Yeni kart ekle...</string>
     <string name="payment_method_add_new_fpx">Banka Hesabı Seçin (FPX)...</string>
+    <string name="paypal_mandate">PayPal\'la ödemeyi onayladığınızda, %s şirketine gelecekteki ödemeler için kendi koşullarına uygun olarak PayPal hesabınızı ücretlendirme izni vermiş olursunuz.</string>
+    <string name="pm_set_as_default">Varsayılan ödeme yöntemi olarak ayarla</string>
     <string name="price_free">Ücretsiz</string>
+    <string name="processing_error">Kartınızla işlem yapılırken bir hata oluştu -- birazdan tekrar deneyin</string>
+    <string msgid="5941395253238309765" name="range_end">"Aralık sonu"</string>
+    <string msgid="7097486360902471446" name="range_start">"Aralık başlangıcı"</string>
     <string name="remove">Kaldır</string>
     <string name="removed">%s çıkartıldı</string>
     <string name="save_for_future_payments_with_merchant_name">Gelecekteki %s ödemeleri için kaydedilsin</string>
+    <string name="scan_card">Kartı tara</string>
     <string msgid="6264217191555673260" name="search_menu_title">"Ara"</string>
     <string name="secure_checkout">Güvenli Ödeme</string>
     <string msgid="6043586758067023" name="selected">"Seçili"</string>
     <string name="sepa_mandate">Ödeme bilgilerinizi sağlayarak ve bu ödemeyi onaylayarak, (A) %s ve ödeme hizmeti sağlayıcımız Stripe\'a hesabınızdan ödeme tahsilatı yapması için bankanıza talimatlar göndermesi ve (B) bankanıza bu talimatlara uygun olarak hesabınızdan ödeme tahsilatı yapması için yetki verirsiniz. Haklarınızın bir parçası olarak, bankanızla yaptığınız sözleşmenin hüküm ve koşulları uyarınca bankanızdan geri ödeme alma hakkına sahipsiniz. Geri ödeme, hesabınızdan ödeme tahsilatı yapıldığı tarihten itibaren 8 hafta içinde talep edilmelidir. Haklarınız, bankanızdan alabileceğiniz bir hesap özetinde açıklanmaktadır. Tahakkuk etmeden 2 gün öncesine kadar gelecekteki ödeme tahsilatları için bildirim almayı da kabul edersiniz.</string>
+    <string name="show_menu">Menüyü göster</string>
+    <string name="sign_up">Link\'e katıl</string>
+    <string name="sign_up_header">Tek tıklamayla güvenli ödeme</string>
+    <string name="sign_up_message">%s dahil binlerce satıcı için daha hızlı ödeme yapın.</string>
+    <string name="sign_up_terms"><![CDATA[Link\'e katılarak <terms>Hükümleri</terms> ve <privacy>Gizlilik Politikasını</privacy> kabul etmiş olursunuz.]]></string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="stripe_3ds2_bzv_issuer_image_description">Verenin Görseli</string>
     <string name="stripe_3ds2_bzv_payment_system_image_description">Ödeme Sistemi Görseli</string>
@@ -250,25 +291,36 @@
     <string name="stripe_3ds2_hzv_cancel_label">İptal</string>
     <string name="stripe_3ds2_hzv_header_label">Güvenli Ödeme</string>
     <string name="stripe_3ds2_processing">İşleniyor/u2026</string>
+    <string name="stripe_continue_button_label">Devam et</string>
     <string name="stripe_failure_connection_error">Ödeme sağlayıcımıza bağlanmayla ilgili sorun yaşıyoruz. Lütfen internet bağlantınızı kontrol edip tekrar deneyin.</string>
     <string name="stripe_failure_reason_authentication">Ödeme metodunuzu doğrulayamadık. Lütfen farklı bir ödeme metodu seçin ve tekrar deneyin.</string>
     <string name="stripe_failure_reason_timed_out">Ödeme metodunuz doğrulanırken zaman aşımına uğradı -- tekrar deneyin</string>
-    <string name="stripe_google_pay_error_internal">Dâhili bir hata oluştu.</string>
+    <string name="stripe_internal_error">Dâhili bir hata oluştu.</string>
     <string name="stripe_pay_button_amount">%s öde</string>
+    <string name="stripe_payment_method_bank">Banka</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Devam ettiğinizde ödemeleri <terms>bu koşullara</terms> göre yetkilendirmeyi kabul etmiş olursunuz.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[%s için banka hesabınızı kaydettiğinizde ödemeleri <terms>bu koşullara</terms> göre yetkilendirmeyi kabul etmiş olursunuz.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Hesabınızı bağlarken bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin.</string>
     <string name="stripe_paymentsheet_add_payment_method_button_label">+ Ekle</string>
-    <string name="stripe_paymentsheet_add_payment_method_country_or_region">Ülke veya bölge</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Kart bilgileri</string>
     <string name="stripe_paymentsheet_add_payment_method_title">Ödeme bilgilerinizi ekleyin</string>
-    <string name="stripe_paymentsheet_back">Geri</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Adresi kaydet</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Gönderi Adresi</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">UPI Numarası kullanarak satın alın</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Yeni bir ödeme yöntemi seçin</string>
     <string name="stripe_paymentsheet_close">Kapat</string>
-    <string name="stripe_paymentsheet_continue_button_label">Devam et</string>
-    <string name="stripe_paymentsheet_expiration_date_hint">AA / YY</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Adresi manuel olarak girin</string>
+    <string name="stripe_paymentsheet_microdeposit">Stripe, 1-2 iş günü içinde hesabınıza 0,01 ABD doları yatıracaktır. Ardından, %s ödemesini tamamlama talimatlarını içeren bir e-posta alacaksınız.</string>
     <string name="stripe_paymentsheet_or_pay_using">Veya şununla ödeyin:</string>
     <string name="stripe_paymentsheet_or_pay_with_card">Ya da kartla ödeyin</string>
     <string name="stripe_paymentsheet_pay_button_label">Öde</string>
-    <string name="stripe_paymentsheet_payment_method_afterpay_clearpay">Afterpay</string>
+    <string name="stripe_paymentsheet_pay_using">Ödeme seçeneği</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Sadece birkaç adımda banka hesabınız ile ödeyin.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">AU BECS Otomatik Ödeme</string>
     <string name="stripe_paymentsheet_payment_method_card">Kart</string>
     <string name="stripe_paymentsheet_payment_method_sepa_debit">SEPA Bankamatik</string>
     <string name="stripe_paymentsheet_primary_button_processing">İşleniyor...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Banka hesabını kaldır</string>
     <string name="stripe_paymentsheet_remove_pm">%s yöntemini kaldırın</string>
     <string name="stripe_paymentsheet_save_for_future_payments">Gelecekteki ödemeler için kaydedilsin</string>
     <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Bu kartı gelecekteki %s ödemeleri için kaydedin</string>
@@ -276,6 +328,7 @@
     <string name="stripe_paymentsheet_total_amount">Toplam: %s</string>
     <string name="stripe_setup_button_label">Ayarla</string>
     <string name="stripe_verify_your_payment">Ödemenizi doğrulayın</string>
+    <string msgid="2561197295334830845" name="switch_role">"Anahtar"</string>
     <string msgid="1672349317127674378" name="tab">"Sekme"</string>
     <string msgid="5946805113151406391" name="template_percent">"Yüzde <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
     <string name="title_add_a_card">Kart Ekle</string>
@@ -283,5 +336,33 @@
     <string name="title_bank_account">Banka Hesabı</string>
     <string name="title_payment_method">Ödeme Metodu</string>
     <string name="title_select_shipping_method">Gönderi Metodunu Seçin</string>
+    <string name="upi_id_label">UPI Numarası</string>
+    <string name="upi_polling_cancel">İptal edip başka bir yöntemle ödeyin</string>
+    <string name="upi_polling_header">Ödemeyi onaylayın</string>
+    <string name="upi_polling_message">Ödemenizi onaylamak için %s içinde UPI uygulamanızı açın</string>
+    <string name="upi_polling_payment_failed_message">Lütfen geri gidip başka bir ödeme yöntemi seçin</string>
+    <string name="upi_polling_payment_failed_title">Ödeme başarısız oldu</string>
+    <string name="verification_change_email">E-posta adresini değiştir</string>
+    <string name="verification_code_sent">Kod gönderildi</string>
+    <string name="verification_header">Doğrulama kodunuzu girin</string>
+    <string name="verification_header_inline">Link hesabınızda oturum açın</string>
+    <string name="verification_header_prefilled">Kayıtlı bilgilerinizi kullanarak daha hızlı ödeme yapabilirsiniz</string>
+    <string name="verification_message">Ödemenizde varsayılan olarak Link\'i kullanmak için %s numaralı telefona gönderilen kodu girin</string>
+    <string name="verification_not_email">%s doğru değil mi?</string>
+    <string name="verification_resend">Kodu tekrar gönder</string>
+    <string name="wallet_bank_account_terms"><![CDATA[Devam ettiğinizde, bu <terms>koşullar</terms>a uygun olarak ödemelere izin vermeyi kabul etmiş olursunuz.]]></string>
     <string name="wallet_buy_button_place_holder">Google ile satın al</string>
+    <string name="wallet_collapsed_payment">Ödeme</string>
+    <string name="wallet_default">Varsayılan</string>
+    <string name="wallet_expanded_title">Ödeme yöntemleri</string>
+    <string name="wallet_pay_another_way">Başka bir ödeme şekli kullanın</string>
+    <string name="wallet_recollect_cvc_error">Güvenliğinizin sağlanması için lütfen kartınızın güvenlik kodunu tekrar girin.</string>
+    <string name="wallet_remove_account_confirmation">Bu bağlı hesabı kaldırmak istediğinizden emin misiniz?</string>
+    <string name="wallet_remove_card">Kartı kaldır</string>
+    <string name="wallet_remove_card_confirmation">Bu kartı kaldırmak istediğinizden emin misiniz?</string>
+    <string name="wallet_remove_linked_account">Bağlı hesabı kaldır</string>
+    <string name="wallet_set_as_default">Varsayılan olarak ayarla</string>
+    <string name="wallet_unavailable">Bu satın alım için kullanılamaz</string>
+    <string name="wallet_update_card">Kartı güncelle</string>
+    <string name="wallet_update_expired_card_error">Bu kartın süresi dolmuş. Kart bilgileirnizi güncelleyin veya farklı bir ödeme yöntemi seçin.</string>
 </resources>
