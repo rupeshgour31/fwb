@@ -16,7 +16,7 @@ dependencies:
   google_fonts: ^3.0.1
   provider: ^6.0.3
   shared_preferences: ^2.0.17
-  fluttertoast: ^8.0.9
+  fluttertoast: ^8.2.1
   url_launcher: ^6.1.10
 #  flutter_stripe:
   flutter_stripe: ^9.2.0
